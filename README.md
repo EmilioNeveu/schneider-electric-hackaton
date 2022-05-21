@@ -1,0 +1,2 @@
+# schneider-electric-hackaton
+Flags
